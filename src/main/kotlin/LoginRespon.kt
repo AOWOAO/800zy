@@ -1,0 +1,1 @@
+data class LoginRespon (var name: String?, var pwd: String?)
